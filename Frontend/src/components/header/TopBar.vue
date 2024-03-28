@@ -115,9 +115,7 @@
   </nav>
 </template>
 
-<script lang="ts">
-declare module '@/components/header/TopBar.vue' {}
-</script>
+<script setup></script>
 
 <style scoped>
 .list-group-item-secondary {

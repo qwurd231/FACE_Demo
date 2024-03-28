@@ -29,6 +29,4 @@
   </div>
 </template>
 
-<script lang="ts">
-declare module '@/components/body/TestTextArea.vue' {}
-</script>
+<script setup></script>
